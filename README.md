@@ -37,7 +37,7 @@ The RX flowgraph demodulates the signal, extracts framed data, and reconstructs 
 This project is inspired by and built upon the open-source work of **Smith**, particularly his QPSK-based video transmission system using AD936x/PlutoSDR.
 You can find his original project file at:
 ```
-  https://www.kechuang.org/t/91540](https://www.kechuang.org/t/91540
+  https://www.kechuang.org/t/91540
 ```
 As well as his demo video on Bilibili:
 ```
