@@ -19,7 +19,7 @@ The system consists of two main components:
 
 The TX flowgraph converts a file into framed packets and transmits them using QPSK modulation. 
 
-![TX Flowgraph](docs/qpsk_tranceiver.png)
+![TX Flowgraph](docs/qpsk_transmitter.png)
 
 ---
 
