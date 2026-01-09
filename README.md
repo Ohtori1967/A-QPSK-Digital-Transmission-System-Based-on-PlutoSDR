@@ -1,5 +1,4 @@
 # A-QPSK-Transmission-System-Based-on-PlutoSDR
-A simple QPSK digital tranceiver/receiver system based on PlutoSDR and GNURadio, which is theoretically compatible to any binary-coded files.
 
 This repository presents a QPSK-based digital file transmission system implemented in GNU Radio Companion. The system is designed to transmit arbitrary binary files (e.g., `.jpg`, `.txt`, `.pdf`, `.docx`) over a QPSK physical layer, and to reassemble the original file reliably at the receiver side. Several .jpg files and .docx files have been tested in Win10 & GNURadio V2025.03.14 (Radio Companion). Since no hash test module is added, there may be error when transmitting larger files.
 ## System Architecture
